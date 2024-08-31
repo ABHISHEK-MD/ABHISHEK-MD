@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @ABHISHEK-MD
-- 👀 I’m interested in Networking, and hacking
-- 🌱 I’m currently learning M.TECH CSE(5Year Integrated) program in Sri Krishna College of Engineering and Technology.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  /EMail: mdabhishekofficial@gmail.com
+# Hi, I'm Abhishek! 👋
 
-<!---
-ABHISHEK-MD/ABHISHEK-MD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate learner and tech enthusiast currently enrolled in a 5-year Integrated M.Tech CSE program at Sri Krishna College of Engineering and Technology.
+
+## 👀 Interests
+- **Hacking & Penetration Testing:** Exploring vulnerabilities and securing systems.
+- **Network Technology:** Understanding how networks operate and interact.
+
+## 🌱 Currently Learning
+- Advancing my skills in penetration testing and cybersecurity.
+- Exploring server and cloud technologies through practical hands-on projects.
+
+## 📫 How to Reach Me
+- **Email:** [mdabhishek05@gmail.com](mailto:mdabhishek05@gmail.com)
+
+Happy H4CK1NG!✌️
+
+[LinkedIn](https://www.linkedin.com/in/abhishek-md) 
