@@ -51,8 +51,6 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 
 ## Work Experience  
 **Penetration Tester Intern** – *HackersDaddy (May 2024 – Aug 2024)*  
-- Conducted security assessments and penetration tests on web applications, identifying vulnerabilities.  
-- Collaborated with the security team to analyze risks and recommend mitigation strategies.  
 - Gained hands-on experience with industry-standard tools like Burp Suite, Nmap, and Metasploit.
 
 
