@@ -2,11 +2,13 @@
 Welcome to my GitHub profile! I'm a passionate learner, cybersecurity enthusiast, and aspiring software developer currently pursuing a 5-year Integrated M.Tech in Computer Science and Engineering at Sri Krishna College of Engineering and Technology.
 
 
+
 ## Interests  
 - **Software Development**: Building scalable and secure applications using Java and Python.  
 - **Ethical Hacking & Penetration Testing**: Exploring vulnerabilities and securing systems.  
 - **Network Security**: Understanding how networks operate and interact.  
 - **Capture The Flag (CTF) Challenges**: Applying problem-solving skills in real-world scenarios.
+
 
 
 ## Currently Learning  
@@ -15,11 +17,13 @@ Welcome to my GitHub profile! I'm a passionate learner, cybersecurity enthusiast
 - Preparing for few cybersecurity certifications
 
 
+
 ## What's Next  
 To begin my career as a **Software Developer** through campus placements and later transition into a **Cybersecurity Specialist**—combining development knowledge with security expertise to build and protect modern systems.
 
 
-## 🔧 Projects  
+
+## Projects  
 ### Toolkit for Web Security (Mini Project)  
 A web-based toolkit designed to monitor and protect websites in real-time.  
 - Monitors incoming requests and detects common web attacks  
@@ -29,6 +33,7 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 - Features a dashboard to view request/attack trends for better security insights
 
 
+
 ## Achievements  
 - **Winner** – SRM MATRIXZ CTF, SKCET TAMIL CTF, Yugam NOVA CTF  
 - **Finalist** – HackathonX 2024, Rajasthan Police Hackathon 2024, NCIIPC AICTE Pentathon 2024 & 2025  
@@ -36,10 +41,12 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 - **Active Participant** – NEXUS CTF, AUM CTF, UMASS CTF, Kurukshetra CTF (Anna University), Z3R0-CTF (Tantrotsav, Amrita Vidyapeetham), Pragyan CTF (NIT)
 
 
+
 ## Certifications  
 - Microsoft Cybersecurity Analyst Professional – *Coursera (Ongoing)*  
 - Google Cybersecurity – *Coursera (Nov 2024)*  
 - Certified Network Security Practitioner (CNSP) – *The SecOps Group (Jun 2024)*  
+
 
 
 ## Work Experience  
@@ -49,12 +56,14 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 - Gained hands-on experience with industry-standard tools like Burp Suite, Nmap, and Metasploit.
 
 
+
 ## How to Reach Me  
-- 📧 Email: mdabhishek05@gmail.com  
+- 📧 Email: mdabhishekdharmaraj@gmail.com  
 - 🔗 LinkedIn: [Click Here](https://linkedin.com/in/abhishek-md)
 
 
-## ⚡ Fun Fact  
+
+## Fun Fact  
 I'm bridging two worlds — building strong software as a developer and breaking weak ones as an ethical hacker.
 
 
