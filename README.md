@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate learner, cybersecurity enthusiast
 
 ---
 
-## 🚀 Interests
+## Interests
 
 - **Software Development:** Building scalable and secure applications using Java and Python  
 - **Ethical Hacking & Penetration Testing:** Exploring vulnerabilities and securing systems  
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate learner, cybersecurity enthusiast
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Java Full Stack Development (Spring Boot, MySQL, REST APIs)
 - Enhancing penetration testing and vulnerability assessment skills
@@ -21,13 +21,13 @@ Welcome to my GitHub profile! I'm a passionate learner, cybersecurity enthusiast
 
 ---
 
-## 🎯 Future Goal
+## Future Goal
 
 To begin my career as a **Software Developer** through campus placements and later transition into a **Cybersecurity Specialist**—combining development knowledge with security expertise to build and protect modern systems.
 
 ---
 
-## 🛠️ Projects
+## Projects
 
 ### 🔒 Toolkit for Web Security (Mini Project)
 A web-based toolkit designed to monitor and protect websites in real-time.
@@ -40,7 +40,7 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - **Winner** – SRM MATRIXZ CTF, SKCET TAMIL CTF, Yugam NOVA CTF
 - **Finalist** – HackathonX 2024, Rajasthan Police Hackathon 2024, NCIIPC AICTE Pentathon 2024 & 2025
@@ -49,7 +49,7 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Microsoft Cybersecurity Analyst Professional – _Coursera (Ongoing)_
 - Google Cybersecurity – _Coursera (Nov 2024)_
@@ -57,7 +57,7 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **Penetration Tester Intern – HackersDaddy (May 2024 – Aug 2024)**  
 - Conducted security assessments and penetration tests on web applications, identifying vulnerabilities  
@@ -66,7 +66,7 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 
 ---
 
-## 📬 How to Reach Me
+## How to Reach Me
 
 - 📧 **Email:** mdabhishekdharmaraj@gmail.com
 - 🔗 **LinkedIn:** [Click Here](https://linkedin.com/in/abhishek-md)
