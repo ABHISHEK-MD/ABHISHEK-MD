@@ -27,6 +27,12 @@ To begin my career as a **Software Developer** through campus placements and lat
 
 ---
 
+## ⚡ Fun Fact
+
+I'm bridging two worlds — building strong software as a developer and breaking weak ones as an ethical hacker.
+
+---
+
 ## Projects
 
 ### 🔒 Toolkit for Web Security (Mini Project)
@@ -40,11 +46,11 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 
 ---
 
-## Achievements
+## Achievements / Participations
 
 - **Winner** – SRM MATRIXZ CTF, SKCET TAMIL CTF, Yugam NOVA CTF
-- **Finalist** – HackathonX 2024, Rajasthan Police Hackathon 2024, NCIIPC AICTE Pentathon 2024 & 2025
 - **Runner-up** – PSG LOGIN 2023 HACKIN CTF
+- **Finalist** – NCIIPC AICTE Pentathon 2024 & 2025, HackathonX 2024, Rajasthan Police Hackathon 2024, 
 - **Active Participant** – NEXUS CTF, AUM CTF, UMASS CTF, Kurukshetra CTF (Anna University), Z3R0-CTF (Tantrotsav, Amrita Vidyapeetham), Pragyan CTF (NIT)
 
 ---
@@ -59,9 +65,7 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 
 ## Work Experience
 
-**Penetration Tester Intern – HackersDaddy (May 2024 – Aug 2024)**  
-- Conducted security assessments and penetration tests on web applications, identifying vulnerabilities  
-- Collaborated with the security team to analyze risks and recommend mitigation strategies  
+**Penetration Tester Intern – HackersDaddy (May 2024 – Aug 2024)**   
 - Gained hands-on experience with industry-standard tools like Burp Suite, Nmap, and Metasploit
 
 ---
@@ -70,12 +74,6 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 
 - 📧 **Email:** mdabhishekdharmaraj@gmail.com
 - 🔗 **LinkedIn:** [Click Here](https://linkedin.com/in/abhishek-md)
-
----
-
-## ⚡ Fun Fact
-
-I'm bridging two worlds — building strong software as a developer and breaking weak ones as an ethical hacker.
 
 ---
 
