@@ -51,7 +51,7 @@ A web-based toolkit designed to monitor and protect websites in real-time.
 - **Winner** – SRM MATRIXZ CTF, SKCET TAMIL CTF, Yugam NOVA CTF
 - **Runner-up** – PSG LOGIN 2023 HACKIN CTF
 - **Finalist** – NCIIPC AICTE Pentathon 2024 & 2025, HackathonX 2024, Rajasthan Police Hackathon 2024, 
-- **Active Participant** – NEXUS CTF, AUM CTF, UMASS CTF, Kurukshetra CTF (Anna University), Z3R0-CTF (Tantrotsav, Amrita Vidyapeetham), Pragyan CTF (NIT)
+- **Active Participant** – NEXUS CTF, AUM CTF, UMASS CTF, Kurukshetra CTF (Anna University), Z3R0-CTF (Tantrotsav, Amrita Vidyapeetham), Pragyan CTF (NIT), etc..
 
 ---
 
