@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate learner, cybersecurity enthusiast
 
 ## Interests
 
-- **Software Development:** Building scalable and secure applications using Java and Python  
+- **Backend Development:** Building scalable and secure server-side applications using Java and Python  
 - **Ethical Hacking & Penetration Testing:** Exploring vulnerabilities and securing systems  
-- **Network Security:** Understanding how networks operate and interact  
+- **Web Security & Digital Forensics:** Exploring web vulenerabilities and analyzing digital evidence in security incidents   
 - **Capture The Flag (CTF) Challenges:** Applying problem-solving skills in real-world scenarios
 
 ---
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate learner, cybersecurity enthusiast
 ## Currently Learning
 
 - Java Full Stack Development (Spring Boot, MySQL, REST APIs)
-- Enhancing penetration testing and vulnerability assessment skills
+- Enhancing web security testing and digital forensics techniques
 - Preparing for Certified Ethical Hacker (CEH) & eJPT certifications
 
 ---
